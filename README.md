@@ -1,2 +1,2 @@
 # Polar_FFT
-FFT in polar coordinates
+Matlab codes for computing FFT in polar coordinates
