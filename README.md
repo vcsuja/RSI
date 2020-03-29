@@ -2,7 +2,7 @@
 Matlab codes for computing Radial symmetry Index (RSI).
 
 # Introduction: 
-The Radial Symmetry Index quantifies the rotatial symmetry in images by assigning a value between 0 and 1, with 0 indicating no symmetry and 1 indicating perfect symmetry. Physically, RSI computes the variance in the magnitude of the data at every radial location and maps this variance between 0 and 1 using a sigmoid function. 
+The Radial Symmetry Index (RSI) quantifies the rotatial symmetry in images by assigning a value between 0 and 1, with 0 indicating no symmetry and 1 indicating perfect symmetry. Physically, RSI computes the variance in the magnitude of the data at every radial location and maps this variance between 0 and 1 using a sigmoid function. 
 
 # Test Cases: 
 ![](Data/CombinedImage_RSI.png)
